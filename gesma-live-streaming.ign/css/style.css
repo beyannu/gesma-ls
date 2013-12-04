@@ -1,0 +1,9 @@
+@import url("jquery.ui.core.css");
+@import url("jquery.ui.tabs.css");
+
+body {background-color:#373737;width:700px;margin:auto;}
+#stream {padding:10px 10px 10px 10px;}
+#kon {color:#D6D710;}
+.taut {background-color:#FFA500;width:50px;}
+.info {background-color:#F5CE87;padding:10px 10px 10px 10px;}
+
